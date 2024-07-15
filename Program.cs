@@ -9,3 +9,7 @@ Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("--> I'm a red text");
 Console.ResetColor();
+
+Console.ForegroundColor = ConsoleColor.Cyan;
+Console.WriteLine("--> I'm a cyan text");
+Console.ResetColor();
