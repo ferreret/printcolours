@@ -5,3 +5,7 @@ Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.Blue;
 Console.WriteLine("--> I'm a blue text");
 Console.ResetColor();
+
+Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("--> I'm a red text");
+Console.ResetColor();
